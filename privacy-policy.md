@@ -2,7 +2,7 @@
 
 **Data de vigência:** 31 de julho de 2025
 
-Esta Política de Privacidade descreve como **[Capybra Tech]** ("nós", "nosso") coleta, usa e compartilha informações em conexão com o uso do nosso aplicativo móvel, Capybara Vision ("Aplicativo").
+Esta Política de Privacidade descreve como **Capybra Tech** ("nós", "nosso") coleta, usa e compartilha informações em conexão com o uso do nosso aplicativo móvel, Capybara Vision ("Aplicativo").
 
 Ao usar nosso Aplicativo, você concorda com a coleta e uso de informações de acordo com esta política.
 
@@ -58,4 +58,4 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificare
 
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em:
 
-**[clintonrodrigues.dev@gmail.com]**
+**clintonrodrigues.dev@gmail.com**
