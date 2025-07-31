@@ -1,0 +1,61 @@
+# Política de Privacidade para Capybara Vision
+
+**Data de vigência:** 31 de julho de 2025
+
+Esta Política de Privacidade descreve como **[Seu Nome ou Nome do Estúdio]** ("nós", "nosso") coleta, usa e compartilha informações em conexão com o uso do nosso aplicativo móvel, Capybara Vision ("Aplicativo").
+
+Ao usar nosso Aplicativo, você concorda com a coleta e uso de informações de acordo com esta política.
+
+### 1. Informações que Coletamos
+
+Para fornecer e melhorar o nosso Aplicativo, coletamos os seguintes tipos de informações:
+
+#### a) Informações que Você nos Fornece
+
+* **Endereço IP do Computador:** O aplicativo solicita que você insira o endereço IP local do seu computador. Esta informação é usada **exclusivamente** para estabelecer a comunicação de rastreamento de cabeça entre o seu celular e o seu PC na sua rede local (Wi-Fi). **Nós não coletamos, armazenamos ou temos acesso a este endereço IP.**
+
+#### b) Informações Coletadas Automaticamente
+
+* **Dados de Sensores (Giroscópio e Acelerômetro):** O núcleo do Aplicativo é ler os dados dos sensores do seu dispositivo. Esses dados são processados em tempo real no seu celular para calcular a orientação da sua cabeça e são transmitidos **apenas** para o endereço IP do seu computador na sua rede local. **Esses dados de sensores nunca são enviados para nós ou para terceiros.**
+
+* **Dados de Uso e de Dispositivo (através de Serviços de Terceiros):** Para suportar o desenvolvimento e oferecer o aplicativo gratuitamente, utilizamos serviços de terceiros que podem coletar informações automaticamente.
+    * **Google AdMob:** Nosso parceiro de anúncios, o Google AdMob, coleta dados para exibir anúncios relevantes. Isso pode incluir o ID de publicidade do seu dispositivo, endereço IP, informações do dispositivo (como modelo e sistema operacional) e dados de interação com os anúncios.
+    * **Google Play Billing:** Se você optar por comprar a versão Premium, o Google Play processará sua compra. Nós recebemos a confirmação da compra, mas **não temos acesso** aos seus dados de pagamento, como informações do cartão de crédito.
+
+### 2. Como Usamos Suas Informações
+
+Utilizamos as informações coletadas para os seguintes propósitos:
+
+* **Para Fornecer o Serviço Principal:** Usar os dados dos sensores e o IP do PC para permitir a funcionalidade de head tracking.
+* **Para Monetização:** Exibir anúncios através do Google AdMob para suportar a versão gratuita do aplicativo.
+* **Para Processar Compras:** Gerenciar o desbloqueio da versão Premium através do Google Play Billing.
+* **Para Melhorar o Aplicativo:** Analisar dados de uso agregados e anônimos para entender como nosso aplicativo é usado e identificar áreas para melhoria.
+
+### 3. Compartilhamento de Informações
+
+Nós não vendemos suas informações pessoais. Só compartilhamos informações com terceiros nas seguintes circunstâncias:
+
+* **Provedores de Serviço:** Compartilhamos dados com o Google para os serviços de anúncios (AdMob) e faturamento (Play Billing). Recomendamos que você leia as políticas de privacidade deles para entender como eles usam seus dados:
+    * **Política de Privacidade do Google:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+### 4. Segurança dos Dados
+
+Tomamos medidas razoáveis para proteger as informações contra acesso, uso ou divulgação não autorizados. No entanto, nenhum método de transmissão pela Internet ou de armazenamento eletrônico é 100% seguro, e não podemos garantir segurança absoluta.
+
+### 5. Privacidade Infantil
+
+Nosso aplicativo não se destina a crianças menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.
+
+### 6. Seus Direitos de Privacidade
+
+Você pode optar por não receber anúncios personalizados nas configurações do seu dispositivo Android, redefinindo seu ID de publicidade ou ativando a opção "Limitar Rastreamento de Anúncios".
+
+### 7. Alterações a Esta Política de Privacidade
+
+Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer alterações, publicando a nova Política de Privacidade nesta página e atualizando a "Data de vigência" no topo.
+
+### 8. Contate-Nos
+
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em:
+
+**[clintonrodrigues.dev@gmail.com]**
